@@ -1,4 +1,4 @@
-
+![MasterHead](https://semidotinfotech.com/web/images/reactjs_banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Rajesh Sagayanathan</h1>
 <h3 align="center">I´m a self-taught developer with a strong eye for innovative design and a keen understanding of techniques geared toward optimum user experience.</h3>
